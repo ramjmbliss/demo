@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+header {
+    background: url("../images/banner1.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 700px;
+    width: 100%;
+}
+
+.header_top {
+    padding: 20px 0;
+}
+.top_left{
+		float:left;
+	}
+.top_right{
+		float:right;
+	}
+.top_left a {
+    color: #FFFFFF;
+    padding: 0 10px;
+    text-decoration: none;
+}
+.header_bottom {
+    margin-top: 20px;
+}
+.header_bottom_left{
+		background:#fff;
+		height:90px;
+		width:983px;
+	}
+.logo {
+    float: left;
+    margin: 0 30px 0 20px;
+}
+
+.logo a {
+    display: block;
+    height: 60px;
+    line-height: 60px;
+    padding: 15px 0;
+}
+.header_menu {
+    float: right;
+}
